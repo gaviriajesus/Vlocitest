@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>vlocity_cmt__ActiveUILayoutDynamicPicklist</members>
-        <members>vlocity_cmt__DRDuplicateFoundException</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>CreateDisputeCase (a0h1I000000AlhTQAS)</members>
-        <members>FetchAccountBalance (a0h1I000000AlhOQAS)</members>
-        <members>FetchActDetails (a0h1I000000AlhJQAS)</members>
-        <members>FetchCaseDetails (a0h1I000000AlhUQAS)</members>
-        <members>FetchLastPaymentDetails (a0h1I000000AlhQQAS)</members>
-        <members>FetchPaymentMethods (a0h1I000000AlhPQAS)</members>
-        <members>MarkSelectedPaymentMethodPrimary (a0h1I000000AlhKQAS)</members>
-        <members>SaveEditedCardDetails (a0h1I000000AlhLQAS)</members>
-        <members>SaveNewPaymetMethod (a0h1I000000AlhMQAS)</members>
-        <members>VPL ReadAllStatements 13-2 (a0h1I000000AlhRQAS)</members>
-        <members>VPL ReadStatementLineItems 13-1 (a0h1I000000AlhSQAS)</members>
-        <members>getCardDetails (a0h1I000000AlhNQAS)</members>
+        <members>ExtractContractLine (a0h1I000000Alg8QAC)</members>
+        <members>InactiveSelectedContractItems (a0h1I000000Alg9QAC)</members>
+        <members>Terminate Contract (a0h1I000000Alg1QAC)</members>
         <name>DataRaptor</name>
     </types>
     <types>
-        <members>VPL Billing Dispute English (a1I1I0000003sbZUAQ)</members>
-        <members>VPL Pay Bill Assisted English (a1I1I000001iIr7UAE)</members>
+        <members>Contract Terminate English (a1I1I0000003pTjUAI)</members>
         <name>OmniScript</name>
     </types>
     <version>41.0</version>
