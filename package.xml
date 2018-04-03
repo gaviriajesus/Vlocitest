@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>ExtractContractLine (a0h1I000000Alg8QAC)</members>
-        <members>InactiveSelectedContractItems (a0h1I000000Alg9QAC)</members>
-        <members>Terminate Contract (a0h1I000000Alg1QAC)</members>
-        <name>DataRaptor</name>
-    </types>
-    <types>
-        <members>Contract Terminate English (a1I1I0000003pTjUAI)</members>
+        <members>VDO Business Order Mobile English (a1I1I0000003pToUAI)</members>
+        <members>VDO Customer Details English (a1I1I0000003pUAUAY)</members>
+        <members>VDO Payment Details English (a1I1I0000003pTpUAI)</members>
         <name>OmniScript</name>
     </types>
     <version>41.0</version>
